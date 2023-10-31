@@ -6,7 +6,7 @@ namespace LV1_Zad1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Ivo Stjepan Ojvan");
+            Console.WriteLine("Pozdrav iz aplikacije od Ivo Stjepan Ojvan, moj broj: 123456789");
         }
     }
 }
